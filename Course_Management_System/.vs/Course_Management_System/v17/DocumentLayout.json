@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\business\\abstracts\\igenericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\business\\abstracts\\igenericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\business\\concrete\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\business\\concrete\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\business\\concrete\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\business\\concrete\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\dataaccesslayer\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\dataaccesslayer\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\dataaccesslayer\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\dataaccesslayer\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\dataaccesslayer\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\dataaccesslayer\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\dataaccesslayer\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\dataaccesslayer\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\dataaccesslayer\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\dataaccesslayer\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\dataaccesslayer\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\dataaccesslayer\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|c:\\users\\emrha\\desktop\\yaz\u0131l\u0131m geli\u015Ftirici yeti\u015Ftirme kamp\u0131 kodlama io\\course_management_system\\course_management_system\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FA7BE-A3F7-4BA8-BC9E-436F3F149489}|Course_Management_System\\Course_Management_System.csproj|solutionrelative:course_management_system\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\Business\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "Course_Management_System\\Business\\Concrete\\CategoryManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:29:24.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Business\\Concrete\\CourseManager.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\Business\\Concrete\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Business\\Concrete\\CourseManager.cs",
+              "RelativeToolTip": "Course_Management_System\\Business\\Concrete\\CourseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:28:58.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructorManager.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Business\\Concrete\\InstructorManager.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\Business\\Concrete\\InstructorManager.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Business\\Concrete\\InstructorManager.cs",
+              "RelativeToolTip": "Course_Management_System\\Business\\Concrete\\InstructorManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:29:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\Program.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Program.cs",
+              "RelativeToolTip": "Course_Management_System\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:24:02.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericServices.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Business\\Abstracts\\IGenericServices.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\Business\\Abstracts\\IGenericServices.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Business\\Abstracts\\IGenericServices.cs",
+              "RelativeToolTip": "Course_Management_System\\Business\\Abstracts\\IGenericServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:10:53.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Concretes\\CourseDal.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\DataAccessLayer\\Concretes\\CourseDal.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Concretes\\CourseDal.cs",
+              "RelativeToolTip": "Course_Management_System\\DataAccessLayer\\Concretes\\CourseDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:27:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Concretes\\CategoryDal.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\DataAccessLayer\\Concretes\\CategoryDal.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Concretes\\CategoryDal.cs",
+              "RelativeToolTip": "Course_Management_System\\DataAccessLayer\\Concretes\\CategoryDal.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:27:26.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Abstracts\\IInstructorDal.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\DataAccessLayer\\Abstracts\\IInstructorDal.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Abstracts\\IInstructorDal.cs",
+              "RelativeToolTip": "Course_Management_System\\DataAccessLayer\\Abstracts\\IInstructorDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:28:34.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Abstracts\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\DataAccessLayer\\Abstracts\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Abstracts\\ICategoryDal.cs",
+              "RelativeToolTip": "Course_Management_System\\DataAccessLayer\\Abstracts\\ICategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:28:15.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Abstracts\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\DataAccessLayer\\Abstracts\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Abstracts\\ICourseDal.cs",
+              "RelativeToolTip": "Course_Management_System\\DataAccessLayer\\Abstracts\\ICourseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:27:52.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Concretes\\InstructorDal.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\DataAccessLayer\\Concretes\\InstructorDal.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\DataAccessLayer\\Concretes\\InstructorDal.cs",
+              "RelativeToolTip": "Course_Management_System\\DataAccessLayer\\Concretes\\InstructorDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:27:36.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Entities\\Course.cs",
+              "RelativeToolTip": "Course_Management_System\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:26:25.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\Entities\\Instructor.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Entities\\Instructor.cs",
+              "RelativeToolTip": "Course_Management_System\\Entities\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:26:47.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Course_Management_System\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\emrha\\Desktop\\Yaz\u0131l\u0131m Geli\u015Ftirici Yeti\u015Ftirme Kamp\u0131 Kodlama io\\Course_Management_System\\Course_Management_System\\Entities\\Category.cs",
+              "RelativeToolTip": "Course_Management_System\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:26:35.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
